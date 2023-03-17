@@ -1,0 +1,24 @@
+*{
+    box-sizing: content-box;
+}
+.fullCenter{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    padding: 15px;
+     
+    background-color: blueviolet;
+}
+
+
+
+
+
+
+#Formulário{
+width: 350px;
+display: flex;
+flex-wrap: wrap;
+
+background-color: blanchedalmond;
+}
